@@ -1,6 +1,8 @@
- ## What Is A README.file?
-  ### 1. Definition
-  >Tyipically, a README.file is an introduction on:
+## What Is A README.file?
+ 
+### 1. Definition
+  Tyipically, a README.file is an introduction on:
+  
   * What the project does
   * Why the project is useful
   * How users can get started with the project
@@ -11,20 +13,23 @@
 
 
 
-  ###   2. Content
+###   2. Content
   
->The contents of a README.file include one or more of the following:
-- Configuration instructions
-- Installation instructions
-- Operating instructions
-- A file manifest (list of files included)
-- Copyright and licensing information
-- Contract information for the distributor or programmer
-- Known bugs
-- Troubleshooting
-- Credits and acknowledgments
-- A changelog (usually for programmmers)
-- A new section (usually for users)
+The contents of a README.file include one or more of the following:
+
+ - Configuration instructions
+ - Installation instructions
+ - Operating instructions
+ - A file manifest (list of files included)
+ - Copyright and licensing information
+ - Contract information for the distributor or programmer
+ - Known bugs
+ - Troubleshooting
+ - Credits and acknowledgments
+ - A changelog (usually for programmmers)
+ - A new section (usually for users)
 
 
 ### Reference
+&emsp; 1. http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=9610227864&site=ehost-live&scope=site
+&emsp; 2. https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes
